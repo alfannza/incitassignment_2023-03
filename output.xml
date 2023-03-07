@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.4 on win32)" generated="20230307 11:02:40.570" rpa="false" schemaversion="3">
+<suite id="s1" name="TC01 NavigateToGenerator" source="c:\Calon D\qerja\2023\Technical Test\INCIT git assignment\incitassignment_2023-03\TC files\TC01_NavigateToGenerator.robot">
+<test id="s1-t1" name="TC01-01_Browser_Setup" line="8">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>http://zxing.appspot.com/generator/</arg>
+<arg>Chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230307 11:02:40.784" level="INFO">Opening browser 'Chrome' to base url 'http://zxing.appspot.com/generator/'.</msg>
+<status status="PASS" starttime="20230307 11:02:40.784" endtime="20230307 11:02:43.265"/>
+</kw>
+<status status="PASS" starttime="20230307 11:02:40.783" endtime="20230307 11:02:43.266"/>
+</test>
+<status status="PASS" starttime="20230307 11:02:40.575" endtime="20230307 11:02:43.268"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="TC01 NavigateToGenerator">TC01 NavigateToGenerator</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
