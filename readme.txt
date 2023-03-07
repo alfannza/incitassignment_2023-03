@@ -1,6 +1,3 @@
-Testing git on vscode [Line editing from vscode]
-Line added from vscode
-
 Covered in this test:
 - Robotframework using this library (SeleniumLibrary, String, Process, OperatingSystem)
 - Emptying directory
